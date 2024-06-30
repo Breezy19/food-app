@@ -1,4 +1,11 @@
 {
-  "name": "xpressfood",
-  "displayName": "xpressfood"
+  "name": "food-app",
+  "displayName": "food-app",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "c9e557f1-9c49-4480-8908-b315a0aa3613"
+      }
+    }
+  }
 }
